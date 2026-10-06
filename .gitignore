@@ -1,0 +1,32 @@
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+out/
+target/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器与系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+npm-debug.log*
+*.tmp
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# 大文件 / 归档
+*.zip
+*.7z
