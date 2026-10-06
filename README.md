@@ -10,11 +10,10 @@ git commit -m "your message"
 git push
 ```
 
-## 推送到 GitHub
+## 远程仓库
 
-本地仓库还没有配置远程地址。准备好凭据后执行：
+已关联 GitHub：<https://github.com/Wannnan/learn-ai-an>
 
 ```bash
-git remote add origin https://github.com/<你的用户名>/<仓库名>.git
-git push -u origin main
+git push
 ```
