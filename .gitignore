@@ -6,8 +6,22 @@ out/
 target/
 __pycache__/
 *.py[cod]
+*$py.class
+.Python
 .venv/
 venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Java / C 编译产物
+*.class
+*.o
+*.obj
+*.exe
+a.out
 
 # 编辑器与系统
 .vscode/
